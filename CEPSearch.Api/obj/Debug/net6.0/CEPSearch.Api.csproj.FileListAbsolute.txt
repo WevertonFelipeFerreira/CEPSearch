@@ -25,3 +25,16 @@ C:\Users\verta\source\repos\CEPSearch\CEPSearch.Api\obj\Debug\net6.0\refint\CEPS
 C:\Users\verta\source\repos\CEPSearch\CEPSearch.Api\obj\Debug\net6.0\CEPSearch.Api.pdb
 C:\Users\verta\source\repos\CEPSearch\CEPSearch.Api\obj\Debug\net6.0\CEPSearch.Api.genruntimeconfig.cache
 C:\Users\verta\source\repos\CEPSearch\CEPSearch.Api\obj\Debug\net6.0\ref\CEPSearch.Api.dll
+C:\Users\verta\source\repos\CEPSearch\CEPSearch.Api\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\verta\source\repos\CEPSearch\CEPSearch.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\verta\source\repos\CEPSearch\CEPSearch.Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\verta\source\repos\CEPSearch\CEPSearch.Api\bin\Debug\net6.0\Refit.dll
+C:\Users\verta\source\repos\CEPSearch\CEPSearch.Api\bin\Debug\net6.0\Refit.HttpClientFactory.dll
+C:\Users\verta\source\repos\CEPSearch\CEPSearch.Api\bin\Debug\net6.0\CEPSearch.Application.dll
+C:\Users\verta\source\repos\CEPSearch\CEPSearch.Api\bin\Debug\net6.0\CEPSearch.Domain.dll
+C:\Users\verta\source\repos\CEPSearch\CEPSearch.Api\bin\Debug\net6.0\CEPSearch.InfraExternal.dll
+C:\Users\verta\source\repos\CEPSearch\CEPSearch.Api\bin\Debug\net6.0\CEPSearch.IoC.dll
+C:\Users\verta\source\repos\CEPSearch\CEPSearch.Api\bin\Debug\net6.0\CEPSearch.IoC.pdb
+C:\Users\verta\source\repos\CEPSearch\CEPSearch.Api\bin\Debug\net6.0\CEPSearch.Application.pdb
+C:\Users\verta\source\repos\CEPSearch\CEPSearch.Api\bin\Debug\net6.0\CEPSearch.Domain.pdb
+C:\Users\verta\source\repos\CEPSearch\CEPSearch.Api\bin\Debug\net6.0\CEPSearch.InfraExternal.pdb

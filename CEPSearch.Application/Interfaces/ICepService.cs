@@ -4,6 +4,6 @@ namespace CEPSearch.Application.Interfaces
 {
     public interface ICepService
     {
-        Task<CepResponse> GetByCep(string cep);
+        Task<CepResponse> GetAddressByCep(string cep);
     }
 }

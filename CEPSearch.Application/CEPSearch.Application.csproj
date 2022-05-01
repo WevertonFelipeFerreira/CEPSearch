@@ -1,14 +1,14 @@
-﻿ < P r o j e c t   S d k = " M i c r o s o f t . N E T . S d k " >  
-   
-      < P r o p e r t y G r o u p >  
-          < T a r g e t F r a m e w o r k > n e t 6 . 0 < / T a r g e t F r a m e w o r k >  
-          < I m p l i c i t U s i n g s > e n a b l e < / I m p l i c i t U s i n g s >  
-          < N u l l a b l e > e n a b l e < / N u l l a b l e >  
-      < / P r o p e r t y G r o u p >  
-   
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
   <ItemGroup>
     <ProjectReference Include="..\CEPSearch.Domain\CEPSearch.Domain.csproj" />
+    <ProjectReference Include="..\CEPSearch.InfraExternal\CEPSearch.InfraExternal.csproj" />
   </ItemGroup>
 
-  < / P r o j e c t >  
- 
+</Project>
